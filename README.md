@@ -14,7 +14,7 @@
 - 🔭Окончил Нижегородский государственный университет имени Н.И. Лобачевского по направлению информационная безопасность💪;  
   
 
-- ❓ Как связаться со мной:  [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Karabas_101) [![Telegram](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://t.me/Karabas_101)  
+- ❓ Как связаться со мной:  [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Karabas_101) [![Telegram](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kirden98@gmail.com)  
 
 <br/>  
 
